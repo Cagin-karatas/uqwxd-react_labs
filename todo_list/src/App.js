@@ -22,7 +22,7 @@ const App = () => {
 
     } else {
 
-      alert("Enter Valid Task");
+      alert("Enter Validative Task");
       setTodo("");
     }
   }
